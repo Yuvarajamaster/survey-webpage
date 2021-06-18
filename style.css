@@ -1,0 +1,95 @@
+body {
+    
+    /* background-image: url("./pencils-1280558_1920.jpg"); */
+    background-attachment: fixed;
+    background: repeating-linear-gradient(
+        45deg,
+        rgb(0, 213, 255) 0px,
+        rgb(58, 228, 234) 60px,
+        black 60px,
+        rgb(160, 58, 193) 100px
+    );
+    
+}
+
+
+
+#container1 {
+    padding-top: 20px;
+    line-height: 30px;
+    
+}
+
+#survey-form {
+
+    background-color: rgba(137, 43, 226, 0.701);
+    padding: 20px 0px 30px 100px;
+    margin-right: 380px;
+    margin-left: 400px;
+    border-radius: 10px;
+    
+    
+}
+
+#main-title {
+    text-align: center;
+    line-height: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(137, 43, 226, 0.972);
+    margin-left: 400px;
+    margin-right: 380px;
+    border-radius: 15px;
+    
+}
+
+h1 {
+    color: rgba(246, 246, 246, 0.938); 
+    font-size: 30px; 
+     
+}
+
+.style1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#description {
+   font-weight: 450;
+   opacity: 75%;
+   color: white;
+   font-size: 20px;
+}
+
+.style2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 22px;
+}
+
+.style3 {
+    color: rgba(0, 0, 0, 0.618); 
+    font-size: 20px; 
+    font-family: inherit;
+}
+
+
+
+#submit {
+    background-color: rgb(56, 219, 143);
+    width: 500px;
+    height: 40px;
+    font-size: 20px;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+#comment1 {
+    width: 500px;
+}
+
+.input-width {
+    width: 500px;
+}
+
+
